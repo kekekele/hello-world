@@ -1,338 +1,8 @@
 [
   {
-    "phone": "TEST000076",
-    "is_low_score": 1,
-    "address": "宜宾市翠屏区建设路47号",
-    "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "Mate 60",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000076",
-        "touch_time": "20261021",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000076_s001\",\"sentence_order\":1,\"sentence\":\"那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV302",
-        "user_code_1": "OP302",
-        "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
-        "ts": "【生效时间】用户反映悦享音乐套餐页面说明与实际生效时间不一致，已登记状态核查。",
-        "mentioned_products": [
-          {
-            "name": "悦享音乐套餐",
-            "evidence": "那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000043",
-    "is_low_score": 1,
-    "address": "成都市锦江区滨江路14号",
-    "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "Mate 60",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000043",
-        "touch_time": "20260918",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000043_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV302",
-        "user_code_1": "OP302",
-        "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "畅享视频套餐",
-            "evidence": "你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000072",
-    "is_low_score": 1,
-    "address": "绵阳市涪城区长江路43号",
-    "terminal_info": {
-      "term_factory": "苹果",
-      "term_model": "iPhone XR",
-      "term_type": "4G"
-    },
-    "records": [
-      {
-        "phone": "TEST000072",
-        "touch_time": "20261017",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000072_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV301",
-        "user_code_1": "OP301",
-        "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
-        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。",
-        "ts": "【退订咨询】用户咨询悦享音乐套餐退订入口和下周期续费，已登记退订并告知处理时限。",
-        "mentioned_products": [
-          {
-            "name": "悦享音乐套餐",
-            "evidence": "我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000067",
-    "is_low_score": 1,
-    "address": "绵阳市涪城区滨江路38号",
-    "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "P60",
-      "term_type": "4G"
-    },
-    "records": [
-      {
-        "phone": "TEST000067",
-        "touch_time": "20261012",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000067_s001\",\"sentence_order\":1,\"sentence\":\"那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV303",
-        "user_code_1": "OP303",
-        "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。;上次问客服和这次说的也不太一样，你们能不能说清楚点？",
-        "voc_to_text_s": "您好，抱歉之前没解释清楚，我现在带您找一下入口。;我也会把说明页面和前次答复的问题反馈上去。;后续有结果我们会再联系您。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "悦享音乐套餐",
-            "evidence": "那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000062",
-    "is_low_score": 1,
-    "address": "成都市青羊区文化路33号",
-    "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "Mate 60",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000062",
-        "touch_time": "20261007",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000062_s001\",\"sentence_order\":1,\"sentence\":\"那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV303",
-        "user_code_1": "OP303",
-        "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
-        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "悦享音乐套餐",
-            "evidence": "那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000051",
-    "is_low_score": 1,
-    "address": "成都市武侯区滨江路22号",
-    "terminal_info": {
-      "term_factory": "苹果",
-      "term_model": "iPhone 13",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000051",
-        "touch_time": "20260926",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000051_s001\",\"sentence_order\":1,\"sentence\":\"那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV301",
-        "user_code_1": "OP301",
-        "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？;多出来这几块钱是啥，页面上我没看到说呀。;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，我来帮您核对一下账单。;查到了，优惠是下个月开始，本月按天计费；您要是对金额还有疑问，我再帮您登记核查。",
-        "ts": "【资费解释】用户对悦享音乐套餐首月计费及优惠生效时间存疑，已解释并登记费用核查。",
-        "mentioned_products": [
-          {
-            "name": "悦享音乐套餐",
-            "evidence": "那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000002",
-    "is_low_score": 1,
-    "address": "成都市锦江区锦绣路13号",
-    "terminal_info": {
-      "term_factory": "苹果",
-      "term_model": "iPhone 13",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000002",
-        "touch_time": "20260917",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000002_s001\",\"sentence_order\":1,\"sentence\":\"我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV303",
-        "user_code_1": "OP303",
-        "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。;我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。;流量倒是能用，可视频会员一直没有，麻烦你帮我处理一下。",
-        "voc_to_text_s": "您说的链接打不开，我明白了，我这边先查一下订单。;订单没问题，我把iPhone上的跳转情况提交给后台，请他们继续排查。;处理结果出来后，我们再通知您。",
-        "ts": "【套餐权益】用户经省营业厅小程序办理畅享视频套餐，订单显示已生效。用户反映：我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。已提交页面跳转核查工单，暂未解决。",
-        "mentioned_products": [
-          {
-            "name": "畅享视频套餐",
-            "evidence": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000034",
-    "is_low_score": 1,
-    "address": "宜宾市翠屏区锦绣路45号",
-    "terminal_info": {
-      "term_factory": "苹果",
-      "term_model": "iPhone 11",
-      "term_type": "4G"
-    },
-    "records": [
-      {
-        "phone": "TEST000034",
-        "touch_time": "20261019",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000034_s001\",\"sentence_order\":1,\"sentence\":\"那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV301",
-        "user_code_1": "OP301",
-        "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
-        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。;您留意一下后续短信。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "畅享视频套餐",
-            "evidence": "那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000009",
-    "is_low_score": 1,
-    "address": "成都市武侯区人民路20号",
-    "terminal_info": {
-      "term_factory": "苹果",
-      "term_model": "iPhone XR",
-      "term_type": "4G"
-    },
-    "records": [
-      {
-        "phone": "TEST000009",
-        "touch_time": "20260924",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000009_s001\",\"sentence_order\":1,\"sentence\":\"Safari里打不开，我又换微信试了，领取页还是打不开，会员也没到账。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV303",
-        "user_code_1": "OP303",
-        "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "你好，小程序上推荐畅享视频套餐，我就点了办理，后来也收到了成功短信。;Safari里打不开，我又换微信试了，领取页还是打不开，会员也没到账。;钱倒是扣了，会员用不了，这个月能不能给我退了？;有结果记得给我回个电话。",
-        "voc_to_text_s": "您稍等，我看一下。套餐确实已经生效了，但视频权益这边还没领成功。;我把您说的苹果手机页面问题记下来，帮您转权益专席核查。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "畅享视频套餐",
-            "evidence": "你好，小程序上推荐畅享视频套餐，我就点了办理，后来也收到了成功短信。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "phone": "TEST000013",
-    "is_low_score": 1,
-    "address": "成都市武侯区新华路24号",
-    "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "Mate 60",
-      "term_type": "5G"
-    },
-    "records": [
-      {
-        "phone": "TEST000013",
-        "touch_time": "20260928",
-        "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000013_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV301",
-        "user_code_1": "OP301",
-        "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
-        "ts": "",
-        "mentioned_products": [
-          {
-            "name": "畅享视频套餐",
-            "evidence": "我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。",
-            "in_catalog": true
-          }
-        ]
-      }
-    ]
-  },
-  {
     "phone": "TEST000010",
     "is_low_score": 1,
-    "address": "成都市武侯区锦绣路21号",
+    "address": "成都市锦江区新华路21号",
     "terminal_info": {
       "term_factory": "苹果",
       "term_model": "iPhone 15",
@@ -363,9 +33,669 @@
     ]
   },
   {
+    "phone": "TEST000238",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区迎宾路89号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 12 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000238",
+        "touch_time": "20261023",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000238_s001\",\"sentence_order\":1,\"sentence\":\"我办了标准流量包，成功短信一直没收到。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "我办了标准流量包，成功短信一直没收到。;到底开通了没有？我怕再办一次重复扣钱。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我帮您查一下订单状态。;系统显示已办理成功，我再给您补发一条通知短信。;您留意一下后续短信。",
+        "ts": "【通知延迟】用户咨询标准流量包办理短信未及时收到，系统订单已成功，已补发通知。",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "我办了标准流量包，成功短信一直没收到。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000106",
+    "is_low_score": 1,
+    "address": "成都市武侯区新华路37号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 11",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000106",
+        "touch_time": "20261011",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000106_s001\",\"sentence_order\":1,\"sentence\":\"短信写办理成功了，可账单里没有首月免费的优惠，照常扣钱。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "那个，我是在你们线下营业厅办的悦享音乐套餐，店员当时说首月不要月费。;短信写办理成功了，可账单里没有首月免费的优惠，照常扣钱。;你们查一下是不是门店没给我选上优惠，差的钱能退吗？;有结果记得给我回个电话。",
+        "voc_to_text_s": "您稍等，我看一下门店办理单。;订单已经生效，但优惠没有显示出来，我帮您提交费用核查。;我会继续跟进，有结果及时联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我是在你们线下营业厅办的悦享音乐套餐，店员当时说首月不要月费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000009",
+    "is_low_score": 1,
+    "address": "成都市锦江区新华路20号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000009",
+        "touch_time": "20260924",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000009_s001\",\"sentence_order\":1,\"sentence\":\"Safari里打不开，我又换微信试了，领取页还是打不开，会员也没到账。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "你好，小程序上推荐畅享视频套餐，我就点了办理，后来也收到了成功短信。;Safari里打不开，我又换微信试了，领取页还是打不开，会员也没到账。;钱倒是扣了，会员用不了，这个月能不能给我退了？;有结果记得给我回个电话。",
+        "voc_to_text_s": "您稍等，我看一下。套餐确实已经生效了，但视频权益这边还没领成功。;我把您说的苹果手机页面问题记下来，帮您转权益专席核查。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "你好，小程序上推荐畅享视频套餐，我就点了办理，后来也收到了成功短信。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000163",
+    "is_low_score": 1,
+    "address": "成都市锦江区锦绣路14号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 11",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000163",
+        "touch_time": "20260918",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000163_s001\",\"sentence_order\":1,\"sentence\":\"我现在用流量还是按原来的额度算，你们系统说这个包明天才开。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "我这边是这样，小程序那个安心流量包，我看办理页说的是立即生效才下单的。;我现在用流量还是按原来的额度算，你们系统说这个包明天才开。;这段时间产生的套餐外费用，你们帮我核对一下。;有结果记得给我回个电话。",
+        "voc_to_text_s": "您好，我先核对一下订单和生效时间。;查到系统安排在次日生效，您说的页面提示我会反馈核查，也帮您登记这段时间的流量费用。",
+        "ts": "【生效时点】用户反馈省营业厅小程序办理安心流量包时页面提示立即生效，订单实际显示次日生效；已登记页面说明与套餐外流量费用核查。",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "我这边是这样，小程序那个安心流量包，我看办理页说的是立即生效才下单的。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000182",
+    "is_low_score": 1,
+    "address": "成都市武侯区滨江路33号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000182",
+        "touch_time": "20261007",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000182_s001\",\"sentence_order\":1,\"sentence\":\"那个，安心流量包办好了，可我在应用里老找不到剩余流量。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，安心流量包办好了，可我在应用里老找不到剩余流量。;你教我从哪里进去看一下嘛。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我带您找一下剩余流量入口。;您先刷新套餐详情，再点流量使用记录，就能看到。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "那个，安心流量包办好了，可我在应用里老找不到剩余流量。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000164",
+    "is_low_score": 1,
+    "address": "成都市锦江区锦绣路15号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000164",
+        "touch_time": "20260919",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000164_s001\",\"sentence_order\":1,\"sentence\":\"可现在查出来要到明天才生效，我这会儿用的还是套餐外流量。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "你好，我在省营业厅小程序买了安心流量包，页面上写着买了马上能用。;可现在查出来要到明天才生效，我这会儿用的还是套餐外流量。;要是只能明天用，办理前就应该写清楚啊。;有结果记得给我回个电话。",
+        "voc_to_text_s": "您稍等，我看一下流量包状态。;订单已成功，但当前生效时间是明天，我会提交办理页说明和实际生效时间不一致的问题。",
+        "ts": "【生效时点】用户反馈省营业厅小程序办理安心流量包时页面提示立即生效，订单实际显示次日生效；已登记页面说明与套餐外流量费用核查。",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "你好，我在省营业厅小程序买了安心流量包，页面上写着买了马上能用。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000204",
+    "is_low_score": 1,
+    "address": "成都市青羊区文化路55号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 13",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000204",
+        "touch_time": "20260919",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000204_s001\",\"sentence_order\":1,\"sentence\":\"我手机里显示的标准流量包剩余流量和短信里对不上。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我手机里显示的标准流量包剩余流量和短信里对不上。;是不是页面没更新，你们帮我查一下。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我核对一下后台的流量余额。;目前短信和页面更新时间不同，我为您登记同步问题。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "我手机里显示的标准流量包剩余流量和短信里对不上。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000221",
+    "is_low_score": 1,
+    "address": "绵阳市涪城区迎宾路72号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 13",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000221",
+        "touch_time": "20261006",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000221_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办了标准流量包，成功短信一直没收到。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "你好，我办了标准流量包，成功短信一直没收到。;到底开通了没有？我怕再办一次重复扣钱。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我帮您查一下订单状态。;系统显示已办理成功，我再给您补发一条通知短信。;后续有结果我们会再联系您。",
+        "ts": "【通知延迟】用户咨询标准流量包办理短信未及时收到，系统订单已成功，已补发通知。",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "你好，我办了标准流量包，成功短信一直没收到。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000154",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区新华路85号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 11 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000154",
+        "touch_time": "20261019",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000154_s001\",\"sentence_order\":1,\"sentence\":\"畅享视频套餐这笔费用我看着比上个月多了点。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "畅享视频套餐这笔费用我看着比上个月多了点。;是不是有按天算的部分，页面上我没找到说明。",
+        "voc_to_text_s": "您好，我帮您核对一下这两个月的明细。;差额来自首月按天计费，我把规则给您解释一下。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "畅享视频套餐这笔费用我看着比上个月多了点。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000167",
+    "is_low_score": 1,
+    "address": "成都市锦江区建设路18号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 50",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000167",
+        "touch_time": "20260922",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000167_s001\",\"sentence_order\":1,\"sentence\":\"可现在查出来要到明天才生效，我这会儿用的还是套餐外流量。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "我在省营业厅小程序买了安心流量包，页面上写着买了马上能用。;可现在查出来要到明天才生效，我这会儿用的还是套餐外流量。;要是只能明天用，办理前就应该写清楚啊。;有结果记得给我回个电话。",
+        "voc_to_text_s": "抱歉影响您今天使用，我核对到订单已经受理。;这个流量包目前显示次日生效，页面提示和费用疑问我一起记录下来。",
+        "ts": "【生效时点】用户反馈省营业厅小程序办理安心流量包时页面提示立即生效，订单实际显示次日生效；已登记页面说明与套餐外流量费用核查。",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "我在省营业厅小程序买了安心流量包，页面上写着买了马上能用。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000072",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区建设路83号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000072",
+        "touch_time": "20261017",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000072_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
+        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。",
+        "ts": "【退订咨询】用户咨询悦享音乐套餐退订入口和下周期续费，已登记退订并告知处理时限。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "我这边是这样，那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000110",
+    "is_low_score": 1,
+    "address": "成都市武侯区迎宾路41号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Pura 70",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000110",
+        "touch_time": "20261015",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000110_s001\",\"sentence_order\":1,\"sentence\":\"短信写办理成功了，可账单里没有首月免费的优惠，照常扣钱。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "那个，我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。;短信写办理成功了，可账单里没有首月免费的优惠，照常扣钱。;要是本来就不能免，那当时为什么这样跟我讲？",
+        "voc_to_text_s": "您稍等，我看一下门店办理单。;订单已经生效，但优惠没有显示出来，我帮您提交费用核查。",
+        "ts": "【优惠计费】用户反馈线下营业厅办理悦享音乐套餐时获告知首月免月费，但账单正常收取月费；已登记核查活动资格与门店办理记录。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000043",
+    "is_low_score": 1,
+    "address": "成都市青羊区文化路54号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000043",
+        "touch_time": "20260918",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000043_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "你好，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000136",
+    "is_low_score": 1,
+    "address": "绵阳市涪城区建设路67号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi 10X 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000136",
+        "touch_time": "20261001",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000136_s001\",\"sentence_order\":1,\"sentence\":\"那个，畅享视频套餐这笔费用我看着比上个月多了点。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "那个，畅享视频套餐这笔费用我看着比上个月多了点。;是不是有按天算的部分，页面上我没找到说明。",
+        "voc_to_text_s": "您好，我帮您核对一下这两个月的明细。;差额来自首月按天计费，我把规则给您解释一下。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "那个，畅享视频套餐这笔费用我看着比上个月多了点。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000118",
+    "is_low_score": 1,
+    "address": "成都市青羊区滨江路49号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 11 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000118",
+        "touch_time": "20261023",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000118_s001\",\"sentence_order\":1,\"sentence\":\"话费单上把月费收了，跟柜台跟我说的不一样啊。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。;话费单上把月费收了，跟柜台跟我说的不一样啊。;你们查一下是不是门店没给我选上优惠，差的钱能退吗？;有结果记得给我回个电话。",
+        "voc_to_text_s": "您好，我先核对您的订单和首月优惠记录。;目前账单确实计了月费，我给您登记核查活动资格和门店办理记录。;我会继续跟进，有结果及时联系您。",
+        "ts": "【优惠计费】用户反馈线下营业厅办理悦享音乐套餐时获告知首月免月费，但账单正常收取月费；已登记核查活动资格与门店办理记录。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000013",
+    "is_low_score": 1,
+    "address": "成都市锦江区迎宾路24号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000013",
+        "touch_time": "20260928",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000013_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "我这边是这样，我办那个畅享视频套餐，页面上写今天能用，昨天客服又说要等到明天。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000067",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区锦绣路78号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "P60",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000067",
+        "touch_time": "20261012",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000067_s001\",\"sentence_order\":1,\"sentence\":\"那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。;上次问客服和这次说的也不太一样，你们能不能说清楚点？",
+        "voc_to_text_s": "您好，抱歉之前没解释清楚，我现在带您找一下入口。;我也会把说明页面和前次答复的问题反馈上去。;后续有结果我们会再联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我看了悦享音乐套餐的说明，还是不晓得那个权益到底在哪里查。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000114",
+    "is_low_score": 1,
+    "address": "成都市青羊区人民路45号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 9 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000114",
+        "touch_time": "20261019",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000114_s001\",\"sentence_order\":1,\"sentence\":\"我刚查到账单，首月月费一分没减，这优惠到底有没有给我？\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "你好，我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。;我刚查到账单，首月月费一分没减，这优惠到底有没有给我？;麻烦帮我把活动资格和这笔扣费核对清楚。;有结果记得给我回个电话。",
+        "voc_to_text_s": "您好，我先核对您的订单和首月优惠记录。;目前账单确实计了月费，我给您登记核查活动资格和门店办理记录。",
+        "ts": "【优惠计费】用户反馈线下营业厅办理悦享音乐套餐时获告知首月免月费，但账单正常收取月费；已登记核查活动资格与门店办理记录。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "你好，我在营业厅签的悦享音乐套餐，宣传页上写的是首月免月费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000149",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区滨江路80号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000149",
+        "touch_time": "20261014",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000149_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我想看看畅享视频套餐下个月是不是还会续费。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我这边是这样，我想看看畅享视频套餐下个月是不是还会续费。;如果恢复原价，能不能先帮我取消？",
+        "voc_to_text_s": "您好，我先查一下您现在的续费状态。;原价和退订时间我都跟您说明，您需要的话我帮您登记退订。;您留意一下后续短信。",
+        "ts": "【续费咨询】用户咨询畅享视频套餐后续价格和退订时间，已说明规则。",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "我这边是这样，我想看看畅享视频套餐下个月是不是还会续费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000079",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区长江路90号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 50",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000079",
+        "touch_time": "20261024",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000079_s001\",\"sentence_order\":1,\"sentence\":\"我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？",
+        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
     "phone": "TEST000008",
     "is_low_score": 1,
-    "address": "成都市锦江区长江路19号",
+    "address": "成都市锦江区建设路19号",
     "terminal_info": {
       "term_factory": "苹果",
       "term_model": "iPhone 15",
@@ -396,28 +726,28 @@
     ]
   },
   {
-    "phone": "TEST000006",
+    "phone": "TEST000002",
     "is_low_score": 1,
-    "address": "成都市锦江区文化路17号",
+    "address": "成都市锦江区人民路13号",
     "terminal_info": {
       "term_factory": "苹果",
-      "term_model": "iPhone 11",
-      "term_type": "4G"
+      "term_model": "iPhone 13",
+      "term_type": "5G"
     },
     "records": [
       {
-        "phone": "TEST000006",
-        "touch_time": "20260921",
+        "phone": "TEST000002",
+        "touch_time": "20260917",
         "action": "咨询投诉",
         "main_object_l1": "套餐业务",
         "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000006_s001\",\"sentence_order\":1,\"sentence\":\"我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV301",
-        "user_code_1": "OP301",
-        "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。;我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。;我都打过两次电话了，还是让我点那个打不开的链接，这怎么解决嘛？",
-        "voc_to_text_s": "您稍等，我看一下。套餐确实已经生效了，但视频权益这边还没领成功。;我把您说的苹果手机页面问题记下来，帮您转权益专席核查。",
-        "ts": "【套餐权益】用户经省营业厅小程序办理畅享视频套餐，订单显示已生效。用户反映：我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。已登记领取异常，转权益专席核查，待回访。",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000002_s001\",\"sentence_order\":1,\"sentence\":\"我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。;我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。;流量倒是能用，可视频会员一直没有，麻烦你帮我处理一下。",
+        "voc_to_text_s": "您说的链接打不开，我明白了，我这边先查一下订单。;订单没问题，我把iPhone上的跳转情况提交给后台，请他们继续排查。;处理结果出来后，我们再通知您。",
+        "ts": "【套餐权益】用户经省营业厅小程序办理畅享视频套餐，订单显示已生效。用户反映：我从小程序点进去，苹果手机那个页面一直转圈，返回去又写着已领取。已提交页面跳转核查工单，暂未解决。",
         "mentioned_products": [
           {
             "name": "畅享视频套餐",
@@ -429,9 +759,174 @@
     ]
   },
   {
+    "phone": "TEST000076",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区文化路87号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000076",
+        "touch_time": "20261021",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000076_s001\",\"sentence_order\":1,\"sentence\":\"那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
+        "ts": "【生效时间】用户反映悦享音乐套餐页面说明与实际生效时间不一致，已登记状态核查。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000092",
+    "is_low_score": 1,
+    "address": "成都市锦江区文化路23号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "P60",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000092",
+        "touch_time": "20260927",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000092_s001\",\"sentence_order\":1,\"sentence\":\"那个，我想看看悦享音乐套餐下个月是不是还会续费。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，我想看看悦享音乐套餐下个月是不是还会续费。;如果恢复原价，能不能先帮我取消？;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我先查一下您现在的续费状态。;原价和退订时间我都跟您说明，您需要的话我帮您登记退订。;后续有结果我们会再联系您。",
+        "ts": "【续费咨询】用户咨询悦享音乐套餐后续价格和退订时间，已说明规则。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我想看看悦享音乐套餐下个月是不是还会续费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000170",
+    "is_low_score": 1,
+    "address": "成都市锦江区新华路21号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Pura 70",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000170",
+        "touch_time": "20260925",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000170_s001\",\"sentence_order\":1,\"sentence\":\"我现在用流量还是按原来的额度算，你们系统说这个包明天才开。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "我这边是这样，小程序那个安心流量包，我看办理页说的是立即生效才下单的。;我现在用流量还是按原来的额度算，你们系统说这个包明天才开。;这段时间产生的套餐外费用，你们帮我核对一下。",
+        "voc_to_text_s": "您稍等，我看一下流量包状态。;订单已成功，但当前生效时间是明天，我会提交办理页说明和实际生效时间不一致的问题。",
+        "ts": "【生效时点】用户反馈省营业厅小程序办理安心流量包时页面提示立即生效，订单实际显示次日生效；已登记页面说明与套餐外流量费用核查。",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "我这边是这样，小程序那个安心流量包，我看办理页说的是立即生效才下单的。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000102",
+    "is_low_score": 1,
+    "address": "成都市武侯区滨江路33号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000102",
+        "touch_time": "20261007",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000102_s001\",\"sentence_order\":1,\"sentence\":\"我刚查到账单，首月月费一分没减，这优惠到底有没有给我？\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "上周去营业厅办悦享音乐套餐，柜台说头一个月免费，我才办的。;我刚查到账单，首月月费一分没减，这优惠到底有没有给我？;要是本来就不能免，那当时为什么这样跟我讲？;麻烦你们尽快帮我看看哈。",
+        "voc_to_text_s": "您稍等，我看一下门店办理单。;订单已经生效，但优惠没有显示出来，我帮您提交费用核查。;处理结果出来后，我们再通知您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "上周去营业厅办悦享音乐套餐，柜台说头一个月免费，我才办的。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000174",
+    "is_low_score": 1,
+    "address": "成都市锦江区迎宾路25号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi 10X 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000174",
+        "touch_time": "20260929",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000174_s001\",\"sentence_order\":1,\"sentence\":\"办完一看生效时间写着次日，跟下单页说的不是一回事呀。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "你好，我刚从省营业厅小程序订了安心流量包，页面说立即生效，付款短信也有了。;办完一看生效时间写着次日，跟下单页说的不是一回事呀。;这段时间产生的套餐外费用，你们帮我核对一下。;有结果记得给我回个电话。",
+        "voc_to_text_s": "您稍等，我看一下流量包状态。;订单已成功，但当前生效时间是明天，我会提交办理页说明和实际生效时间不一致的问题。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "你好，我刚从省营业厅小程序订了安心流量包，页面说立即生效，付款短信也有了。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
     "phone": "TEST000044",
     "is_low_score": 1,
-    "address": "成都市锦江区建设路15号",
+    "address": "成都市青羊区文化路55号",
     "terminal_info": {
       "term_factory": "华为",
       "term_model": "P60",
@@ -462,9 +957,537 @@
     ]
   },
   {
+    "phone": "TEST000232",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区建设路83号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000232",
+        "touch_time": "20261017",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000232_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办了标准流量包，成功短信一直没收到。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "你好，我办了标准流量包，成功短信一直没收到。;到底开通了没有？我怕再办一次重复扣钱。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我帮您查一下订单状态。;系统显示已办理成功，我再给您补发一条通知短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "你好，我办了标准流量包，成功短信一直没收到。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000119",
+    "is_low_score": 1,
+    "address": "成都市青羊区建设路50号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 15",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000119",
+        "touch_time": "20261024",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000119_s001\",\"sentence_order\":1,\"sentence\":\"我想看看畅享视频套餐下个月是不是还会续费。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "我想看看畅享视频套餐下个月是不是还会续费。;如果恢复原价，能不能先帮我取消？",
+        "voc_to_text_s": "您好，我先查一下您现在的续费状态。;原价和退订时间我都跟您说明，您需要的话我帮您登记退订。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "我想看看畅享视频套餐下个月是不是还会续费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000175",
+    "is_low_score": 1,
+    "address": "成都市锦江区长江路26号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 12 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000175",
+        "touch_time": "20260930",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000175_s001\",\"sentence_order\":1,\"sentence\":\"我现在用流量还是按原来的额度算，你们系统说这个包明天才开。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "你好，今天急着用流量，我看小程序写马上能用，就办了安心流量包。;我现在用流量还是按原来的额度算，你们系统说这个包明天才开。;这段时间产生的套餐外费用，你们帮我核对一下。;麻烦你们尽快帮我看看哈。",
+        "voc_to_text_s": "您好，我先核对一下订单和生效时间。;查到系统安排在次日生效，您说的页面提示我会反馈核查，也帮您登记这段时间的流量费用。;我会继续跟进，有结果及时联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "你好，今天急着用流量，我看小程序写马上能用，就办了安心流量包。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000097",
+    "is_low_score": 1,
+    "address": "成都市武侯区人民路28号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi 10X 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000097",
+        "touch_time": "20261002",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000097_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办悦享音乐套餐的时候没看懂优惠到哪天结束。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "你好，我办悦享音乐套餐的时候没看懂优惠到哪天结束。;这月金额变了，你帮我讲清楚是怎么计的。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我先看一下您的活动有效期。;查到本月优惠到期，我把账单明细给您逐项说明。;后续有结果我们会再联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "你好，我办悦享音乐套餐的时候没看懂优惠到哪天结束。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000146",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区人民路77号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 15",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000146",
+        "touch_time": "20261011",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000146_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办畅享视频套餐的时候没看懂优惠到哪天结束。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我这边是这样，我办畅享视频套餐的时候没看懂优惠到哪天结束。;这月金额变了，你帮我讲清楚是怎么计的。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先看一下您的活动有效期。;查到本月优惠到期，我把账单明细给您逐项说明。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "我这边是这样，我办畅享视频套餐的时候没看懂优惠到哪天结束。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000109",
+    "is_low_score": 1,
+    "address": "成都市武侯区迎宾路40号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "P60",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000109",
+        "touch_time": "20261014",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000109_s001\",\"sentence_order\":1,\"sentence\":\"我刚查到账单，首月月费一分没减，这优惠到底有没有给我？\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "上周去营业厅办悦享音乐套餐，柜台说头一个月免费，我才办的。;我刚查到账单，首月月费一分没减，这优惠到底有没有给我？;麻烦帮我把活动资格和这笔扣费核对清楚。;有结果记得给我回个电话。",
+        "voc_to_text_s": "您稍等，我看一下门店办理单。;订单已经生效，但优惠没有显示出来，我帮您提交费用核查。;我会继续跟进，有结果及时联系您。",
+        "ts": "【优惠计费】用户反馈线下营业厅办理悦享音乐套餐时获告知首月免月费，但账单正常收取月费；已登记核查活动资格与门店办理记录。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "上周去营业厅办悦享音乐套餐，柜台说头一个月免费，我才办的。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000034",
+    "is_low_score": 1,
+    "address": "成都市青羊区人民路45号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 11",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000034",
+        "touch_time": "20261019",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000034_s001\",\"sentence_order\":1,\"sentence\":\"那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
+        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "那个，那个畅享视频套餐我想先不用了，可我翻半天也没找到哪里取消。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000187",
+    "is_low_score": 1,
+    "address": "成都市武侯区文化路38号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "P60",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000187",
+        "touch_time": "20261012",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000187_s001\",\"sentence_order\":1,\"sentence\":\"那个，安心流量包办好了，可我在应用里老找不到剩余流量。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，安心流量包办好了，可我在应用里老找不到剩余流量。;你教我从哪里进去看一下嘛。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我带您找一下剩余流量入口。;您先刷新套餐详情，再点流量使用记录，就能看到。;后续有结果我们会再联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "那个，安心流量包办好了，可我在应用里老找不到剩余流量。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000215",
+    "is_low_score": 1,
+    "address": "绵阳市涪城区建设路66号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 9 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000215",
+        "touch_time": "20260930",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000215_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办了标准流量包，成功短信一直没收到。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我这边是这样，我办了标准流量包，成功短信一直没收到。;到底开通了没有？我怕再办一次重复扣钱。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我帮您查一下订单状态。;系统显示已办理成功，我再给您补发一条通知短信。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "我这边是这样，我办了标准流量包，成功短信一直没收到。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000006",
+    "is_low_score": 1,
+    "address": "成都市锦江区滨江路17号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 11",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000006",
+        "touch_time": "20260921",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000006_s001\",\"sentence_order\":1,\"sentence\":\"我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。;我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。;我都打过两次电话了，还是让我点那个打不开的链接，这怎么解决嘛？",
+        "voc_to_text_s": "您稍等，我看一下。套餐确实已经生效了，但视频权益这边还没领成功。;我把您说的苹果手机页面问题记下来，帮您转权益专席核查。",
+        "ts": "【套餐权益】用户经省营业厅小程序办理畅享视频套餐，订单显示已生效。用户反映：我这苹果手机点领取，它老说页面不支持，视频会员到现在还用不了。已登记领取异常，转权益专席核查，待回访。",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "喂，我前两天在省营业厅小程序办了那个畅享视频套餐，短信都说成功了。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000051",
+    "is_low_score": 1,
+    "address": "绵阳市涪城区锦绣路62号",
+    "terminal_info": {
+      "term_factory": "苹果",
+      "term_model": "iPhone 13",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000051",
+        "touch_time": "20260926",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000051_s001\",\"sentence_order\":1,\"sentence\":\"那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？;多出来这几块钱是啥，页面上我没看到说呀。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我来帮您核对一下账单。;查到了，优惠是下个月开始，本月按天计费；您要是对金额还有疑问，我再帮您登记核查。",
+        "ts": "【资费解释】用户对悦享音乐套餐首月计费及优惠生效时间存疑，已解释并登记费用核查。",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个，我办悦享音乐套餐的时候看到的明明是优惠价，怎么账单又不是那个数？",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000062",
+    "is_low_score": 1,
+    "address": "绵阳市涪城区迎宾路73号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000062",
+        "touch_time": "20261007",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "办理与权益使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000062_s001\",\"sentence_order\":1,\"sentence\":\"那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。;你帮我看一下吧，我可不想下个月又自动续上。",
+        "voc_to_text_s": "您好，我先帮您确认现在的续费状态。;退订入口我一步一步跟您说，您如果操作不了，我也可以给您登记退订申请。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "悦享音乐套餐",
+            "evidence": "那个悦享音乐套餐我想先不用了，可我翻半天也没找到哪里取消。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000197",
+    "is_low_score": 1,
+    "address": "成都市青羊区滨江路48号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 9 4G",
+      "term_type": "4G"
+    },
+    "records": [
+      {
+        "phone": "TEST000197",
+        "touch_time": "20261022",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000197_s001\",\"sentence_order\":1,\"sentence\":\"我手机里显示的安心流量包剩余流量和短信里对不上。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我手机里显示的安心流量包剩余流量和短信里对不上。;是不是页面没更新，你们帮我查一下。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我核对一下后台的流量余额。;目前短信和页面更新时间不同，我为您登记同步问题。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "安心流量包",
+            "evidence": "我手机里显示的安心流量包剩余流量和短信里对不上。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000156",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区文化路87号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 11 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000156",
+        "touch_time": "20261021",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000156_s001\",\"sentence_order\":1,\"sentence\":\"那个，畅享视频套餐这笔费用我看着比上个月多了点。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "那个，畅享视频套餐这笔费用我看着比上个月多了点。;是不是有按天算的部分，页面上我没找到说明。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我帮您核对一下这两个月的明细。;差额来自首月按天计费，我把规则给您解释一下。;后续有结果我们会再联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "那个，畅享视频套餐这笔费用我看着比上个月多了点。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000126",
+    "is_low_score": 1,
+    "address": "成都市青羊区迎宾路57号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Mate 60",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000126",
+        "touch_time": "20260921",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000126_s001\",\"sentence_order\":1,\"sentence\":\"我办畅享视频套餐的时候没看懂优惠到哪天结束。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "我办畅享视频套餐的时候没看懂优惠到哪天结束。;这月金额变了，你帮我讲清楚是怎么计的。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先看一下您的活动有效期。;查到本月优惠到期，我把账单明细给您逐项说明。;后续有结果我们会再联系您。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "畅享视频套餐",
+            "evidence": "我办畅享视频套餐的时候没看懂优惠到哪天结束。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000236",
+    "is_low_score": 1,
+    "address": "宜宾市翠屏区文化路87号",
+    "terminal_info": {
+      "term_factory": "小米",
+      "term_model": "Redmi Note 11 5G",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000236",
+        "touch_time": "20261021",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000236_s001\",\"sentence_order\":1,\"sentence\":\"标准流量包办好了，可我在应用里老找不到剩余流量。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV303",
+        "user_code_1": "OP303",
+        "user_company_1": "服务营销中心（宜宾）",
+        "voc_to_text_u": "标准流量包办好了，可我在应用里老找不到剩余流量。;你教我从哪里进去看一下嘛。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我带您找一下剩余流量入口。;您先刷新套餐详情，再点流量使用记录，就能看到。;后续有结果我们会再联系您。",
+        "ts": "【用量查询】用户咨询标准流量包剩余流量查询入口，已说明操作路径。",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "标准流量包办好了，可我在应用里老找不到剩余流量。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
     "phone": "TEST000018",
     "is_low_score": 1,
-    "address": "成都市青羊区锦绣路29号",
+    "address": "成都市武侯区人民路29号",
     "terminal_info": {
       "term_factory": "华为",
       "term_model": "Mate 50",
@@ -495,32 +1518,65 @@
     ]
   },
   {
-    "phone": "TEST000079",
+    "phone": "TEST000083",
     "is_low_score": 1,
-    "address": "宜宾市翠屏区迎宾路50号",
+    "address": "成都市锦江区锦绣路14号",
     "terminal_info": {
-      "term_factory": "华为",
-      "term_model": "Mate 50",
+      "term_factory": "苹果",
+      "term_model": "iPhone XR",
       "term_type": "4G"
     },
     "records": [
       {
-        "phone": "TEST000079",
-        "touch_time": "20261024",
+        "phone": "TEST000083",
+        "touch_time": "20260918",
         "action": "咨询投诉",
-        "main_object_l1": "套餐业务",
-        "main_object_l2": "办理与权益使用",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000079_s001\",\"sentence_order\":1,\"sentence\":\"我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。\",\"intent_id\":\"intent_experience_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
-        "user_phone_1": "SERV303",
-        "user_code_1": "OP303",
-        "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。;我刚试了还是说没生效，到底什么时候才能用？",
-        "voc_to_text_s": "您好，抱歉让您来回确认，我再查一下生效时间。;系统和页面显示不一致，我帮您登记核查，有结果会短信通知您。;您留意一下后续短信。",
-        "ts": "",
+        "main_object_l1": "套餐资费",
+        "main_object_l2": "优惠与计费",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000083_s001\",\"sentence_order\":1,\"sentence\":\"我想看看悦享音乐套餐下个月是不是还会续费。\",\"intent_id\":\"intent_offer_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV301",
+        "user_code_1": "OP301",
+        "user_company_1": "服务营销中心（成都）",
+        "voc_to_text_u": "我想看看悦享音乐套餐下个月是不是还会续费。;如果恢复原价，能不能先帮我取消？;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先查一下您现在的续费状态。;原价和退订时间我都跟您说明，您需要的话我帮您登记退订。",
+        "ts": "【续费咨询】用户咨询悦享音乐套餐后续价格和退订时间，已说明规则。",
         "mentioned_products": [
           {
             "name": "悦享音乐套餐",
-            "evidence": "我办那个悦享音乐套餐，页面上写今天能用，昨天客服又说要等到明天。",
+            "evidence": "我想看看悦享音乐套餐下个月是不是还会续费。",
+            "in_catalog": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "phone": "TEST000206",
+    "is_low_score": 1,
+    "address": "成都市青羊区迎宾路57号",
+    "terminal_info": {
+      "term_factory": "华为",
+      "term_model": "Pura 70",
+      "term_type": "5G"
+    },
+    "records": [
+      {
+        "phone": "TEST000206",
+        "touch_time": "20260921",
+        "action": "咨询投诉",
+        "main_object_l1": "套餐业务",
+        "main_object_l2": "生效时点与流量使用",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000206_s001\",\"sentence_order\":1,\"sentence\":\"我办了标准流量包，成功短信一直没收到。\",\"intent_id\":\"intent_activation_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "user_phone_1": "SERV302",
+        "user_code_1": "OP302",
+        "user_company_1": "服务营销中心（绵阳）",
+        "voc_to_text_u": "我办了标准流量包，成功短信一直没收到。;到底开通了没有？我怕再办一次重复扣钱。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我帮您查一下订单状态。;系统显示已办理成功，我再给您补发一条通知短信。;您留意一下后续短信。",
+        "ts": "",
+        "mentioned_products": [
+          {
+            "name": "标准流量包",
+            "evidence": "我办了标准流量包，成功短信一直没收到。",
             "in_catalog": true
           }
         ]
