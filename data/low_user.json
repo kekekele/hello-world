@@ -32,10 +32,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -71,10 +68,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -110,10 +104,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -132,27 +123,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000281_s001\",\"sentence_order\":1,\"sentence\":\"我办亲情畅聊套餐后收到的语音额度短信有点看不懂。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000281_s001\",\"sentence_order\":1,\"sentence\":\"我办亲情畅聊套餐后收到的短信把通话分钟分成了本地和全国两栏。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV301",
         "user_code_1": "OP301",
         "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "我办亲情畅聊套餐后收到的语音额度短信有点看不懂。;短信里分了好几种分钟，能不能解释一下？",
-        "voc_to_text_s": "您好，我按本地和全国通话分别给您解释。;您稍等，我把套餐语音权益短信再发一遍。",
+        "voc_to_text_u": "我办亲情畅聊套餐后收到的短信把通话分钟分成了本地和全国两栏。;原来只显示一个总数，现在数字变了，我看不懂是怎么拆的。",
+        "voc_to_text_s": "您好，我按本地和全国通话分别给您核对。;短信中的分钟分类和原来不同，我把变化规则给您说明。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "亲情畅聊套餐",
-            "evidence": "我办亲情畅聊套餐后收到的语音额度短信有点看不懂。",
+            "evidence": "我办亲情畅聊套餐后收到的短信把通话分钟分成了本地和全国两栏。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -169,7 +157,7 @@
         "phone": "TEST000337",
         "touch_time": "20261002",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000337_s001\",\"sentence_order\":1,\"sentence\":\"结果又收到一条彩铃会员办理成功的短信，这个我根本没订。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
@@ -188,10 +176,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -227,10 +212,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -266,10 +248,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -305,10 +284,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -344,10 +320,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -364,29 +337,26 @@
         "phone": "TEST000333",
         "touch_time": "20260928",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000333_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了畅享通话套餐，确认短信一直没收到。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000333_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了畅享通话套餐，后来又收到云盘会员开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "那个，我在青禾通讯加盟店办了畅享通话套餐，确认短信一直没收到。;到底办成功没有？我怕再去办会重复。",
-        "voc_to_text_s": "您好，我先帮您查一下办理记录。;订单已经成功，我再补发一条确认短信给您。",
-        "ts": "【短信延迟】用户咨询畅享通话套餐办理确认短信延迟，订单已成功，已补发通知。",
+        "voc_to_text_u": "那个，我在青禾通讯加盟店办了畅享通话套餐，后来又收到云盘会员开通短信。;店员没跟我说云盘，我也没订这个业务，麻烦查一下。",
+        "voc_to_text_s": "您好，我先核对您在加盟店的套餐订单和云盘业务流水。;这条短信对应的受理来源我会登记核查。",
+        "ts": "【未订购业务短信】用户在加盟店办理畅享通话套餐后收到云盘会员开通短信，否认主动订购，已核查受理来源。",
         "mentioned_products": [
           {
             "name": "畅享通话套餐",
-            "evidence": "那个，我在青禾通讯加盟店办了畅享通话套餐，确认短信一直没收到。",
+            "evidence": "那个，我在青禾通讯加盟店办了畅享通话套餐，后来又收到云盘会员开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -403,7 +373,7 @@
         "phone": "TEST000361",
         "touch_time": "20260916",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000361_s001\",\"sentence_order\":1,\"sentence\":\"刚才短信提示另一个增值业务已开通，可我没有点那个业务。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV301",
@@ -422,10 +392,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -461,10 +428,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -500,10 +464,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -539,10 +500,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -559,29 +517,26 @@
         "phone": "TEST000329",
         "touch_time": "20260924",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000329_s001\",\"sentence_order\":1,\"sentence\":\"你好，我在柜台办了畅享通话套餐，短信上的套餐名称和单子不一样。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000329_s001\",\"sentence_order\":1,\"sentence\":\"你好，我在加盟店办了畅享通话套餐，又收到一个陌生增值业务的开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV301",
         "user_code_1": "OP301",
         "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "你好，我在柜台办了畅享通话套餐，短信上的套餐名称和单子不一样。;到底哪个才是我现在用的，帮我核对一下。",
-        "voc_to_text_s": "您好，我核对一下柜台办理单和短信内容。;两处名称有差异，我把实际生效的套餐给您说明。",
-        "ts": "【名称核对】用户咨询畅享通话套餐办理单与短信名称不一致，已核对套餐状态。",
+        "voc_to_text_u": "你好，我在加盟店办了畅享通话套餐，又收到一个陌生增值业务的开通短信。;受理单上没有这个名字，我没有订过，怕后面扣钱。",
+        "voc_to_text_s": "您好，我先核对受理单和号码下的增值业务。;短信来源及可能产生的费用我会为您登记核查。",
+        "ts": "【未订购业务短信】用户办理畅享通话套餐后收到陌生增值业务开通短信，否认订购，已核查受理与费用状态。",
         "mentioned_products": [
           {
             "name": "畅享通话套餐",
-            "evidence": "你好，我在柜台办了畅享通话套餐，短信上的套餐名称和单子不一样。",
+            "evidence": "你好，我在加盟店办了畅享通话套餐，又收到一个陌生增值业务的开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -617,10 +572,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -637,7 +589,7 @@
         "phone": "TEST000357",
         "touch_time": "20261022",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000357_s001\",\"sentence_order\":1,\"sentence\":\"刚才短信提示另一个增值业务已开通，可我没有点那个业务。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
@@ -656,10 +608,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -678,27 +627,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000270_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在锦城路服务厅自助机办了亲情畅聊套餐，语音额度在哪里查？\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000270_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在锦城路服务厅自助机办了亲情畅聊套餐，昨天显示全国通话分钟，今天又变成本地分钟了。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "那个，我在锦城路服务厅自助机办了亲情畅聊套餐，语音额度在哪里查？;查询页面点进去总是加载不出来，麻烦帮我看下。",
-        "voc_to_text_s": "您好，我帮您核对一下语音额度。;系统有记录，我把查询路径发给您，页面加载问题也会反馈。;您留意一下后续短信。",
+        "voc_to_text_u": "那个，我在锦城路服务厅自助机办了亲情畅聊套餐，昨天显示全国通话分钟，今天又变成本地分钟了。;可用分钟的分类变来变去，到底按哪个算？",
+        "voc_to_text_s": "您好，我帮您核对一下语音额度分类。;我看到查询页面的分类有变化，会把新旧显示记录一起提交核查。;您留意一下后续短信。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "亲情畅聊套餐",
-            "evidence": "那个，我在锦城路服务厅自助机办了亲情畅聊套餐，语音额度在哪里查？",
+            "evidence": "那个，我在锦城路服务厅自助机办了亲情畅聊套餐，昨天显示全国通话分钟，今天又变成本地分钟了。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -734,10 +680,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -773,10 +716,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -793,29 +733,26 @@
         "phone": "TEST000387",
         "touch_time": "20261012",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000387_s001\",\"sentence_order\":1,\"sentence\":\"办经典语音套餐的时候验证码短信来了两次。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000387_s001\",\"sentence_order\":1,\"sentence\":\"柜台帮我办了经典语音套餐，没过多久短信说彩铃会员也开通了。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "办经典语音套餐的时候验证码短信来了两次。;我只确认过一次，麻烦查下是不是有两笔订单。;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，我帮您看一下受理流水。;目前只查到一笔订单，重复验证码我会登记核查。",
+        "voc_to_text_u": "柜台帮我办了经典语音套餐，没过多久短信说彩铃会员也开通了。;我就办了套餐，彩铃根本没订，怎么会发这条短信？;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我帮您查一下彩铃业务是否真的生效。;套餐办理和短信触发记录我会一起核对。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "经典语音套餐",
-            "evidence": "办经典语音套餐的时候验证码短信来了两次。",
+            "evidence": "柜台帮我办了经典语音套餐，没过多久短信说彩铃会员也开通了。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -851,10 +788,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -890,10 +824,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -929,10 +860,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -968,10 +896,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -990,27 +915,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000311_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办经典语音套餐后收到的语音额度短信有点看不懂。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000311_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我办经典语音套餐后收到的短信把通话分钟分成了本地和全国两栏。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
         "user_code_1": "OP302",
         "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "我这边是这样，我办经典语音套餐后收到的语音额度短信有点看不懂。;短信里分了好几种分钟，能不能解释一下？;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，我按本地和全国通话分别给您解释。;您稍等，我把套餐语音权益短信再发一遍。;您留意一下后续短信。",
+        "voc_to_text_u": "我这边是这样，我办经典语音套餐后收到的短信把通话分钟分成了本地和全国两栏。;原来只显示一个总数，现在数字变了，我看不懂是怎么拆的。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我按本地和全国通话分别给您核对。;短信中的分钟分类和原来不同，我把变化规则给您说明。;您留意一下后续短信。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "经典语音套餐",
-            "evidence": "我这边是这样，我办经典语音套餐后收到的语音额度短信有点看不懂。",
+            "evidence": "我这边是这样，我办经典语音套餐后收到的短信把通话分钟分成了本地和全国两栏。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -1046,10 +968,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1085,10 +1004,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1124,10 +1040,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1163,10 +1076,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1185,27 +1095,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000289_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办全家共享套餐后收到的语音额度短信有点看不懂。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000289_s001\",\"sentence_order\":1,\"sentence\":\"你好，我办全家共享套餐后收到的短信把通话分钟分成了本地和全国两栏。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
         "user_code_1": "OP302",
         "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "你好，我办全家共享套餐后收到的语音额度短信有点看不懂。;短信里分了好几种分钟，能不能解释一下？",
-        "voc_to_text_s": "您好，我按本地和全国通话分别给您解释。;您稍等，我把套餐语音权益短信再发一遍。;后续有结果我们会再联系您。",
-        "ts": "【规则解释】用户咨询全家共享套餐语音额度短信中的分钟分类，已解释并补发说明。",
+        "voc_to_text_u": "你好，我办全家共享套餐后收到的短信把通话分钟分成了本地和全国两栏。;原来只显示一个总数，现在数字变了，我看不懂是怎么拆的。",
+        "voc_to_text_s": "您好，我按本地和全国通话分别给您核对。;短信中的分钟分类和原来不同，我把变化规则给您说明。;后续有结果我们会再联系您。",
+        "ts": "【分钟分类变化】用户咨询全家共享套餐办理后通话分钟分类及显示数值变化，已核对并解释。",
         "mentioned_products": [
           {
             "name": "全家共享套餐",
-            "evidence": "你好，我办全家共享套餐后收到的语音额度短信有点看不懂。",
+            "evidence": "你好，我办全家共享套餐后收到的短信把通话分钟分成了本地和全国两栏。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -1241,10 +1148,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1280,10 +1184,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1300,29 +1201,26 @@
         "phone": "TEST000354",
         "touch_time": "20261019",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000354_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000354_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
         "user_code_1": "OP302",
         "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "那个，我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。;到底哪个才是我现在用的，帮我核对一下。;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，我核对一下柜台办理单和短信内容。;两处名称有差异，我把实际生效的套餐给您说明。;您留意一下后续短信。",
-        "ts": "【名称核对】用户咨询亲情畅聊套餐办理单与短信名称不一致，已核对套餐状态。",
+        "voc_to_text_u": "那个，我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。;受理单上没有这个名字，我没有订过，怕后面扣钱。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先核对受理单和号码下的增值业务。;短信来源及可能产生的费用我会为您登记核查。;您留意一下后续短信。",
+        "ts": "【未订购业务短信】用户办理亲情畅聊套餐后收到陌生增值业务开通短信，否认订购，已核查受理与费用状态。",
         "mentioned_products": [
           {
             "name": "亲情畅聊套餐",
-            "evidence": "那个，我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。",
+            "evidence": "那个，我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1358,10 +1256,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1397,10 +1292,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1436,10 +1328,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1475,10 +1364,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1514,10 +1400,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1536,27 +1419,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000258_s001\",\"sentence_order\":1,\"sentence\":\"畅享通话套餐的通话详单我这边打不开。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000258_s001\",\"sentence_order\":1,\"sentence\":\"办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
         "user_code_1": "OP302",
         "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "畅享通话套餐的通话详单我这边打不开。;这几天的电话到底用了多少分钟，能帮我查一下吗？",
-        "voc_to_text_s": "您好，我先查一下通话记录。;详单查询入口可能有延迟，我把当前已计入的分钟数给您说明。;您留意一下后续短信。",
-        "ts": "【详单查询】用户反馈畅享通话套餐通话详单无法查看，已说明已计入的通话时长。",
+        "voc_to_text_u": "办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。;通话详单又没跟着更新，这个变化是怎么算的？",
+        "voc_to_text_s": "您好，我先核对一下已用分钟和详单更新时间。;两处数值暂时对不上，我为您登记计量显示核查。;您留意一下后续短信。",
+        "ts": "【已用分钟变化】用户反馈畅享通话套餐已用通话分钟数发生变化且与详单不同步，已登记核查。",
         "mentioned_products": [
           {
             "name": "畅享通话套餐",
-            "evidence": "畅享通话套餐的通话详单我这边打不开。",
+            "evidence": "办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -1592,10 +1472,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1612,29 +1489,26 @@
         "phone": "TEST000391",
         "touch_time": "20261016",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000391_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我在青禾通讯加盟店办了经典语音套餐，确认短信一直没收到。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000391_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，我在青禾通讯加盟店办了经典语音套餐，后来又收到云盘会员开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "我这边是这样，我在青禾通讯加盟店办了经典语音套餐，确认短信一直没收到。;到底办成功没有？我怕再去办会重复。;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，我先帮您查一下办理记录。;订单已经成功，我再补发一条确认短信给您。;后续有结果我们会再联系您。",
-        "ts": "【短信延迟】用户咨询经典语音套餐办理确认短信延迟，订单已成功，已补发通知。",
+        "voc_to_text_u": "我这边是这样，我在青禾通讯加盟店办了经典语音套餐，后来又收到云盘会员开通短信。;店员没跟我说云盘，我也没订这个业务，麻烦查一下。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我先核对您在加盟店的套餐订单和云盘业务流水。;这条短信对应的受理来源我会登记核查。;后续有结果我们会再联系您。",
+        "ts": "【未订购业务短信】用户在加盟店办理经典语音套餐后收到云盘会员开通短信，否认主动订购，已核查受理来源。",
         "mentioned_products": [
           {
             "name": "经典语音套餐",
-            "evidence": "我这边是这样，我在青禾通讯加盟店办了经典语音套餐，确认短信一直没收到。",
+            "evidence": "我这边是这样，我在青禾通讯加盟店办了经典语音套餐，后来又收到云盘会员开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1651,29 +1525,26 @@
         "phone": "TEST000369",
         "touch_time": "20260924",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000369_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000369_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV301",
         "user_code_1": "OP301",
         "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。;到底办成功没有？我怕再去办会重复。;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，我先帮您查一下办理记录。;订单已经成功，我再补发一条确认短信给您。;您留意一下后续短信。",
-        "ts": "【短信延迟】用户咨询全家共享套餐办理确认短信延迟，订单已成功，已补发通知。",
+        "voc_to_text_u": "那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。;店员没跟我说云盘，我也没订这个业务，麻烦查一下。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我先核对您在加盟店的套餐订单和云盘业务流水。;这条短信对应的受理来源我会登记核查。;您留意一下后续短信。",
+        "ts": "【未订购业务短信】用户在加盟店办理全家共享套餐后收到云盘会员开通短信，否认主动订购，已核查受理来源。",
         "mentioned_products": [
           {
             "name": "全家共享套餐",
-            "evidence": "那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。",
+            "evidence": "那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1690,7 +1561,7 @@
         "phone": "TEST000399",
         "touch_time": "20261024",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000399_s001\",\"sentence_order\":1,\"sentence\":\"刚才短信提示另一个增值业务已开通，可我没有点那个业务。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
@@ -1709,10 +1580,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -1748,10 +1616,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1787,10 +1652,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1826,10 +1688,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1865,10 +1724,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -1885,29 +1741,26 @@
         "phone": "TEST000365",
         "touch_time": "20260920",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000365_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000365_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。;到底办成功没有？我怕再去办会重复。;有结果跟我说一声哈。",
-        "voc_to_text_s": "您好，我先帮您查一下办理记录。;订单已经成功，我再补发一条确认短信给您。;后续有结果我们会再联系您。",
-        "ts": "【短信延迟】用户咨询全家共享套餐办理确认短信延迟，订单已成功，已补发通知。",
+        "voc_to_text_u": "那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。;店员没跟我说云盘，我也没订这个业务，麻烦查一下。;有结果跟我说一声哈。",
+        "voc_to_text_s": "您好，我先核对您在加盟店的套餐订单和云盘业务流水。;这条短信对应的受理来源我会登记核查。;后续有结果我们会再联系您。",
+        "ts": "【未订购业务短信】用户在加盟店办理全家共享套餐后收到云盘会员开通短信，否认主动订购，已核查受理来源。",
         "mentioned_products": [
           {
             "name": "全家共享套餐",
-            "evidence": "那个，我在青禾通讯加盟店办了全家共享套餐，确认短信一直没收到。",
+            "evidence": "那个，我在青禾通讯加盟店办了全家共享套餐，后来又收到云盘会员开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -1943,10 +1796,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -1982,10 +1832,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2021,10 +1868,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2060,10 +1904,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2099,10 +1940,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2138,10 +1976,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -2177,10 +2012,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -2216,10 +2048,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2255,10 +2084,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2294,10 +2120,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2314,7 +2137,7 @@
         "phone": "TEST000338",
         "touch_time": "20261003",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000338_s001\",\"sentence_order\":1,\"sentence\":\"结果又收到一条彩铃会员办理成功的短信，这个我根本没订。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
@@ -2333,10 +2156,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -2372,10 +2192,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2392,29 +2209,26 @@
         "phone": "TEST000343",
         "touch_time": "20261008",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000343_s001\",\"sentence_order\":1,\"sentence\":\"我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000343_s001\",\"sentence_order\":1,\"sentence\":\"我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。;到底哪个才是我现在用的，帮我核对一下。;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，我核对一下柜台办理单和短信内容。;两处名称有差异，我把实际生效的套餐给您说明。",
-        "ts": "【名称核对】用户咨询亲情畅聊套餐办理单与短信名称不一致，已核对套餐状态。",
+        "voc_to_text_u": "我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。;受理单上没有这个名字，我没有订过，怕后面扣钱。;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先核对受理单和号码下的增值业务。;短信来源及可能产生的费用我会为您登记核查。",
+        "ts": "【未订购业务短信】用户办理亲情畅聊套餐后收到陌生增值业务开通短信，否认订购，已核查受理与费用状态。",
         "mentioned_products": [
           {
             "name": "亲情畅聊套餐",
-            "evidence": "我在柜台办了亲情畅聊套餐，短信上的套餐名称和单子不一样。",
+            "evidence": "我在加盟店办了亲情畅聊套餐，又收到一个陌生增值业务的开通短信。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -2433,27 +2247,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000316_s001\",\"sentence_order\":1,\"sentence\":\"你好，我在锦城路服务厅自助机办了经典语音套餐，语音额度在哪里查？\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000316_s001\",\"sentence_order\":1,\"sentence\":\"你好，我在锦城路服务厅自助机办了经典语音套餐，昨天显示全国通话分钟，今天又变成本地分钟了。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
         "user_code_1": "OP302",
         "user_company_1": "服务营销中心（绵阳）",
-        "voc_to_text_u": "你好，我在锦城路服务厅自助机办了经典语音套餐，语音额度在哪里查？;查询页面点进去总是加载不出来，麻烦帮我看下。",
-        "voc_to_text_s": "您好，我帮您核对一下语音额度。;系统有记录，我把查询路径发给您，页面加载问题也会反馈。;您留意一下后续短信。",
-        "ts": "【额度查询】用户咨询经典语音套餐语音额度查询页面加载异常，已核查并说明。",
+        "voc_to_text_u": "你好，我在锦城路服务厅自助机办了经典语音套餐，昨天显示全国通话分钟，今天又变成本地分钟了。;可用分钟的分类变来变去，到底按哪个算？",
+        "voc_to_text_s": "您好，我帮您核对一下语音额度分类。;我看到查询页面的分类有变化，会把新旧显示记录一起提交核查。;您留意一下后续短信。",
+        "ts": "【分钟分类变化】用户反馈经典语音套餐办理后全国与本地通话分钟的显示分类发生变化，已登记核查。",
         "mentioned_products": [
           {
             "name": "经典语音套餐",
-            "evidence": "你好，我在锦城路服务厅自助机办了经典语音套餐，语音额度在哪里查？",
+            "evidence": "你好，我在锦城路服务厅自助机办了经典语音套餐，昨天显示全国通话分钟，今天又变成本地分钟了。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -2472,27 +2283,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000296_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在锦城路服务厅自助机办了全家共享套餐，语音额度在哪里查？\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000296_s001\",\"sentence_order\":1,\"sentence\":\"那个，我在锦城路服务厅自助机办了全家共享套餐，昨天显示全国通话分钟，今天又变成本地分钟了。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV301",
         "user_code_1": "OP301",
         "user_company_1": "服务营销中心（成都）",
-        "voc_to_text_u": "那个，我在锦城路服务厅自助机办了全家共享套餐，语音额度在哪里查？;查询页面点进去总是加载不出来，麻烦帮我看下。",
-        "voc_to_text_s": "您好，我帮您核对一下语音额度。;系统有记录，我把查询路径发给您，页面加载问题也会反馈。;您留意一下后续短信。",
+        "voc_to_text_u": "那个，我在锦城路服务厅自助机办了全家共享套餐，昨天显示全国通话分钟，今天又变成本地分钟了。;可用分钟的分类变来变去，到底按哪个算？",
+        "voc_to_text_s": "您好，我帮您核对一下语音额度分类。;我看到查询页面的分类有变化，会把新旧显示记录一起提交核查。;您留意一下后续短信。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "全家共享套餐",
-            "evidence": "那个，我在锦城路服务厅自助机办了全家共享套餐，语音额度在哪里查？",
+            "evidence": "那个，我在锦城路服务厅自助机办了全家共享套餐，昨天显示全国通话分钟，今天又变成本地分钟了。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -2528,10 +2336,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2567,10 +2372,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2606,10 +2408,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2645,10 +2444,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2684,10 +2480,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2723,10 +2516,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2762,10 +2552,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2782,7 +2569,7 @@
         "phone": "TEST000382",
         "touch_time": "20261007",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000382_s001\",\"sentence_order\":1,\"sentence\":\"刚才短信提示另一个增值业务已开通，可我没有点那个业务。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
@@ -2801,10 +2588,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -2840,10 +2624,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2879,10 +2660,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C303",
-        "channel_name": "青禾通讯加盟店"
-      }
+      "青禾通讯加盟店"
     ]
   },
   {
@@ -2918,10 +2696,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -2957,10 +2732,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C101",
-        "channel_name": "省营业厅小程序"
-      }
+      "省营业厅小程序"
     ]
   },
   {
@@ -2996,10 +2768,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C202",
-        "channel_name": "线下营业厅"
-      }
+      "线下营业厅"
     ]
   },
   {
@@ -3016,7 +2785,7 @@
         "phone": "TEST000396",
         "touch_time": "20261021",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000396_s001\",\"sentence_order\":1,\"sentence\":\"短信说我订了云盘会员，我就办了套餐，哪来的云盘？\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
@@ -3035,10 +2804,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -3055,7 +2821,7 @@
         "phone": "TEST000379",
         "touch_time": "20261004",
         "action": "投诉质疑",
-        "main_object_l1": "营销与增值服务",
+        "main_object_l1": "营销与增值业务",
         "main_object_l2": "收到未订购业务短信",
         "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000379_s001\",\"sentence_order\":1,\"sentence\":\"刚才短信提示另一个增值业务已开通，可我没有点那个业务。\",\"intent_id\":\"intent_sms_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV302",
@@ -3074,10 +2840,7 @@
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   },
   {
@@ -3096,27 +2859,24 @@
         "action": "投诉质疑",
         "main_object_l1": "套餐资费",
         "main_object_l2": "通话分钟数变化",
-        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000254_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，畅享通话套餐的通话详单我这边打不开。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
+        "main_evidence_sentences_json": "[{\"sentence_id\":\"voc_000254_s001\",\"sentence_order\":1,\"sentence\":\"我这边是这样，办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。\",\"intent_id\":\"intent_minutes_problem\",\"score\":0.86,\"assign_method\":\"similarity_match\",\"round_id\":10}]",
         "user_phone_1": "SERV303",
         "user_code_1": "OP303",
         "user_company_1": "服务营销中心（宜宾）",
-        "voc_to_text_u": "我这边是这样，畅享通话套餐的通话详单我这边打不开。;这几天的电话到底用了多少分钟，能帮我查一下吗？;麻烦你帮我查清楚一点。",
-        "voc_to_text_s": "您好，我先查一下通话记录。;详单查询入口可能有延迟，我把当前已计入的分钟数给您说明。;您留意一下后续短信。",
+        "voc_to_text_u": "我这边是这样，办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。;通话详单又没跟着更新，这个变化是怎么算的？;麻烦你帮我查清楚一点。",
+        "voc_to_text_s": "您好，我先核对一下已用分钟和详单更新时间。;两处数值暂时对不上，我为您登记计量显示核查。;您留意一下后续短信。",
         "ts": "",
         "mentioned_products": [
           {
             "name": "畅享通话套餐",
-            "evidence": "我这边是这样，畅享通话套餐的通话详单我这边打不开。",
+            "evidence": "我这边是这样，办畅享通话套餐以后，昨天已用通话分钟还是几十，今天突然变成一百多。",
             "in_catalog": true
           }
         ]
       }
     ],
     "channel_info": [
-      {
-        "channel_code": "C404",
-        "channel_name": "锦城路服务厅"
-      }
+      "锦城路服务厅"
     ]
   }
 ]
